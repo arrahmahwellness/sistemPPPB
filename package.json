@@ -1,0 +1,20 @@
+{
+  "name": "sistem-pppb-arrahmah",
+  "version": "1.0.0",
+  "description": "Sistem Pengurusan Pembaharuan APC (PPPB) MPTK - Ar Rahmah Wellness",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "keywords": [
+    "mptk",
+    "apc",
+    "pppb",
+    "ar-rahmah-wellness"
+  ],
+  "author": "Ar Rahmah Wellness",
+  "license": "ISC"
+}
